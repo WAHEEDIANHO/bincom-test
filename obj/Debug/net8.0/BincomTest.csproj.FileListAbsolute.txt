@@ -1,0 +1,14 @@
+/home/waheedianho/Documents/learning/bincom/BincomTest/bin/Debug/net8.0/BincomTest
+/home/waheedianho/Documents/learning/bincom/BincomTest/bin/Debug/net8.0/BincomTest.deps.json
+/home/waheedianho/Documents/learning/bincom/BincomTest/bin/Debug/net8.0/BincomTest.runtimeconfig.json
+/home/waheedianho/Documents/learning/bincom/BincomTest/bin/Debug/net8.0/BincomTest.dll
+/home/waheedianho/Documents/learning/bincom/BincomTest/bin/Debug/net8.0/BincomTest.pdb
+/home/waheedianho/Documents/learning/bincom/BincomTest/obj/Debug/net8.0/BincomTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/waheedianho/Documents/learning/bincom/BincomTest/obj/Debug/net8.0/BincomTest.AssemblyInfoInputs.cache
+/home/waheedianho/Documents/learning/bincom/BincomTest/obj/Debug/net8.0/BincomTest.AssemblyInfo.cs
+/home/waheedianho/Documents/learning/bincom/BincomTest/obj/Debug/net8.0/BincomTest.csproj.CoreCompileInputs.cache
+/home/waheedianho/Documents/learning/bincom/BincomTest/obj/Debug/net8.0/BincomTest.dll
+/home/waheedianho/Documents/learning/bincom/BincomTest/obj/Debug/net8.0/refint/BincomTest.dll
+/home/waheedianho/Documents/learning/bincom/BincomTest/obj/Debug/net8.0/BincomTest.pdb
+/home/waheedianho/Documents/learning/bincom/BincomTest/obj/Debug/net8.0/BincomTest.genruntimeconfig.cache
+/home/waheedianho/Documents/learning/bincom/BincomTest/obj/Debug/net8.0/ref/BincomTest.dll
