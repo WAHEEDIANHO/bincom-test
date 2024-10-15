@@ -12,3 +12,4 @@
 /home/waheedianho/Documents/learning/bincom/BincomTest/obj/Debug/net8.0/BincomTest.pdb
 /home/waheedianho/Documents/learning/bincom/BincomTest/obj/Debug/net8.0/BincomTest.genruntimeconfig.cache
 /home/waheedianho/Documents/learning/bincom/BincomTest/obj/Debug/net8.0/ref/BincomTest.dll
+/home/waheedianho/Documents/learning/bincom/BincomTest/obj/Debug/net8.0/BincomTest.sourcelink.json
